@@ -1,0 +1,14 @@
+/Users/yuwan.go/Desktop/CsharpFinal/CsharpFinal/CsharpFinal/obj/x86/Debug/CsharpFinal.csprojAssemblyReference.cache
+/Users/yuwan.go/Desktop/CsharpFinal/CsharpFinal/CsharpFinal/obj/x86/Debug/CsharpFinal.csproj.CoreCompileInputs.cache
+/Users/yuwan.go/Desktop/CsharpFinal/CsharpFinal/CsharpFinal/bin/Debug/CsharpFinal.exe
+/Users/yuwan.go/Desktop/CsharpFinal/CsharpFinal/CsharpFinal/bin/Debug/CsharpFinal.pdb
+/Users/yuwan.go/Desktop/CsharpFinal/CsharpFinal/CsharpFinal/bin/Debug/Json.dll
+/Users/yuwan.go/Desktop/CsharpFinal/CsharpFinal/CsharpFinal/bin/Debug/Newtonsoft.Json.dll
+/Users/yuwan.go/Desktop/CsharpFinal/CsharpFinal/CsharpFinal/bin/Debug/nunit.framework.dll
+/Users/yuwan.go/Desktop/CsharpFinal/CsharpFinal/CsharpFinal/bin/Debug/Json.pdb
+/Users/yuwan.go/Desktop/CsharpFinal/CsharpFinal/CsharpFinal/bin/Debug/nunit.framework.pdb
+/Users/yuwan.go/Desktop/CsharpFinal/CsharpFinal/CsharpFinal/bin/Debug/nunit.framework.xml
+/Users/yuwan.go/Desktop/CsharpFinal/CsharpFinal/CsharpFinal/bin/Debug/Newtonsoft.Json.xml
+/Users/yuwan.go/Desktop/CsharpFinal/CsharpFinal/CsharpFinal/obj/x86/Debug/CsharpFinal.csproj.CopyComplete
+/Users/yuwan.go/Desktop/CsharpFinal/CsharpFinal/CsharpFinal/obj/x86/Debug/CsharpFinal.exe
+/Users/yuwan.go/Desktop/CsharpFinal/CsharpFinal/CsharpFinal/obj/x86/Debug/CsharpFinal.pdb
